@@ -97,3 +97,7 @@ if moje != rj:
             status = False
 print('Broj pokušaja:', s)
 #Meni ispisuje riješenje kad ide kroz program a ne izbacuje mi konačno riješenje - treba napravit funkciju za to 
+
+
+
+# Sada cemo napisati neki novi dio koda
