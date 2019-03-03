@@ -1,1 +1,2 @@
-2 zbraja 3 množi 4
+umnozak brojeva 3 , 10 i 2 pribroji broju 2 i podijeli sa umnoskom 3 i 6
+
